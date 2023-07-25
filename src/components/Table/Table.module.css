@@ -1,0 +1,17 @@
+.result{
+    max-width: 50rem;
+    table-layout: fixed;
+    margin: 2rem auto;
+    padding: 1rem;
+    border-spacing: 1rem;
+    text-align: center;
+}
+
+.result thead{
+    font-size: 0.7rem;
+    color: #83e6c0;
+}
+
+.result tbody{
+    font-size: 0.5rem;
+}

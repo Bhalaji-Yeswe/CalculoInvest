@@ -1,0 +1,6 @@
+.elements input{
+    width: 10rem;
+    height: 2rem;
+    border-radius: 4px;
+    box-shadow: rgba(1,0,0,1,0.5);
+}
